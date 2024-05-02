@@ -1,0 +1,61 @@
+h1 {
+  margin: 10px;
+  font-family: Arial;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.info {
+  color: white;
+  font-family: Arial;
+  border-radius: 4px;
+  margin: 10px;
+  padding: 5px;
+  margin: 10px;
+  padding: 2px;
+  border: 1px solid rgb(148, 147, 147);
+  text-align: center;
+}
+
+.info2 {
+  display: flex;
+}
+
+p {
+  margin: 10px;
+  padding: 2px;
+  border-radius: 4px;
+  color: black;
+  text-align: left;
+}
+.botao1 {
+  margin: 10px;
+  padding: 8px;
+  border-radius: 4px;
+  color: #2112a3;
+  font-family: Arial;
+  background-color: lightblue;
+}
+
+.botao2 {
+  margin: 10px;
+  padding: 8px;
+  border-radius: 4px;
+  color: #2112a3;
+  font-family: Arial;
+  background-color: rgb(130, 240, 130);
+}
+
+h2 {
+  margin: 10px;
+  text-align: center;
+  color: #000000;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  align-items: center;
+}
